@@ -1,0 +1,28 @@
+1
+3
+3
+4
+4
+4
+18
+19
+21
+1 lowSum: 0 upIndex: 7 totalSum: 10
+3 lowSum: 4 upIndex: 8 totalSum: 5
+3 lowSum: 4 upIndex: 8 totalSum: 5
+4 lowSum: 11 upIndex: 9 totalSum: 11
+4 lowSum: 11 upIndex: 9 totalSum: 11
+4 lowSum: 11 upIndex: 9 totalSum: 11
+18 lowSum: 1327 upIndex: 9 totalSum: 1327
+19 lowSum: 1512 upIndex: 9 totalSum: 1512
+21 lowSum: 1928 upIndex: 9 totalSum: 1928
+21 highSum: 0 downIndex: 2 totalSum: 11
+19 highSum: 4 downIndex: 0 totalSum: 5
+18 highSum: 10 downIndex: -1 totalSum: 10
+4 highSum: 710 downIndex: -1 totalSum: 710
+4 highSum: 710 downIndex: -1 totalSum: 710
+4 highSum: 710 downIndex: -1 totalSum: 710
+3 highSum: 808 downIndex: -1 totalSum: 808
+3 highSum: 808 downIndex: -1 totalSum: 808
+1 highSum: 1048 downIndex: -1 totalSum: 1048
+5
